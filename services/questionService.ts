@@ -296,7 +296,7 @@ const QUESTION_BANK: Question[] = [
     type: QuestionType.MULTIPLE_CHOICE,
     unit: "PART1",
     instruction: "Prepositions",
-    text: "My cabin is ______ the engine room and the kitchen.",
+    text: "My cabin is ______ the engine room and the galley.",
     options: [ { id: "a", text: "next" }, { id: "b", text: "between" }, { id: "c", text: "under" }, { id: "d", text: "in front" } ],
     correctAnswer: "b",
     explanation: "Between A and B."
